@@ -22,7 +22,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CodeWithCharan/My-Portfolio
+   git clone https://github.com/amu3486/amu3486
    ```
 2. Open [index.html](index.html) in any modern browser to view the website locally.
 3. Modify the content in the HTML, CSS, and JavaScript files to customize.
