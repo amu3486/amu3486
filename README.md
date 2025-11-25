@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experience as a Data Scientist and AI enthusiast. You can explore my portfolio [here](https://).
+Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experience as a Data Scientist and AI enthusiast. You can explore my portfolio [here](https://amu3486.github.io/amu3486/).
 
 ## Features
 
