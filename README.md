@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**amu3486/amu3486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 Personal Portfolio Website
 Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experience as a Data Scientist and AI enthusiast. You can explore my portfolio here.
 
@@ -44,8 +26,8 @@ Responsive Design principles for mobile-friendly layouts.
 License
 This project is licensed under the MIT License.
 
-:mailbox: Connect With Me
+📫 Connect With Me
 handshake gif
-codewithcharan __mr.__.unique codewithcharan
+
 
 Feel free to fork this repository and use it as inspiration for your own portfolio!
