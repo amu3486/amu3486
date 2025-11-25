@@ -34,9 +34,6 @@ Welcome to my personal portfolio website repository! This project showcases my s
 - **Font Awesome** and custom fonts for enhanced UI.
 - **Responsive Design** principles for mobile-friendly layouts.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## :mailbox: Connect With Me
 <img align="right" src="https://media.giphy.com/media/2HtWpp60NQ9CU/giphy.gif" alt="handshake gif" width="150">
